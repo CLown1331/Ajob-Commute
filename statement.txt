@@ -1,0 +1,5 @@
+Capital of **Ajobdesh**, **Ajobshohor** has a unique road system. **Ajobshohor**'s road system can be easily described as a tree. There are **n** intersection points, connected with **n - 1** roads. Each road has a cost, **w** associated with it. You have to pay toll **w** if use a road. 
+
+Bob is new in **Ajobshohor**. He will stay there for **q** days. Each day he will need to go from point A to B. He doesn't like to carry notes of multiple denominations and doesn't like to wait for changes. So each day, he will carry notes of a single denomination so that he can pay for the tolls.
+
+Help him by find the largest denomination he can carry, and how many of it he will need.
